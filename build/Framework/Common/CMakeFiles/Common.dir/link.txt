@@ -1,0 +1,2 @@
+C:/mingw64/bin/ar.exe qc libCommon.a  CMakeFiles/Common.dir/BaseApplication.cpp.obj CMakeFiles/Common.dir/GraphicsManager.cpp.obj CMakeFiles/Common.dir/main.cpp.obj
+C:/mingw64/bin/ranlib.exe libCommon.a

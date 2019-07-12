@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Framework/Interface/IApplication.hpp
+Interface.hpp
+../Framework/Interface/Interface.hpp
+IRuntimeModule.hpp
+../Framework/Interface/IRuntimeModule.hpp
+
+../Framework/Interface/IRuntimeModule.hpp
+Interface.hpp
+../Framework/Interface/Interface.hpp
+
+../Framework/Interface/Interface.hpp
+
+E:/gmaker/bgame/GameEngine/Framework/Common/BaseApplication.cpp
+BaseApplication.hpp
+E:/gmaker/bgame/GameEngine/Framework/Common/BaseApplication.hpp
+
+E:/gmaker/bgame/GameEngine/Framework/Common/BaseApplication.hpp
+IApplication.hpp
+E:/gmaker/bgame/GameEngine/Framework/Common/IApplication.hpp
+
+E:/gmaker/bgame/GameEngine/Framework/Common/GraphicsManager.cpp
+GraphicsManager.hpp
+E:/gmaker/bgame/GameEngine/Framework/Common/GraphicsManager.hpp
+
+E:/gmaker/bgame/GameEngine/Framework/Common/GraphicsManager.hpp
+IRuntimeModule.hpp
+E:/gmaker/bgame/GameEngine/Framework/Common/IRuntimeModule.hpp
+
+E:/gmaker/bgame/GameEngine/Framework/Common/main.cpp
+stdio.h
+-
+IApplication.hpp
+E:/gmaker/bgame/GameEngine/Framework/Common/IApplication.hpp
+
